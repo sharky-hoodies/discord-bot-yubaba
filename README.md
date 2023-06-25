@@ -1,4 +1,6 @@
 Discordユーザー名を一部奪ってしまうお婆さんのbot
+## Demo
+![demo](https://github.com/sharky-hoodies/discord-bot-yubaba/assets/24955202/3778c689-9aa9-4c61-aa42-61c625afd9a0)
 
 ## SetUp
 1. [DiscordDeveloperPortal](https://discord.com/developers/applications)でbotを準備(権限はadmin)
